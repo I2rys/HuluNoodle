@@ -1,4 +1,4 @@
-//Requirements Importer
+//Dependencies
 const Request = require("request")
 const Chalk = require("chalk")
 const Fs = require("fs")
