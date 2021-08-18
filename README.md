@@ -3,7 +3,7 @@
 </p>
 
 # HuluNoodle
-A simple but powerful and fast Hulu checker written in NodeJS.
+Simple but powerful and fast Hulu checker written in NodeJS.
 
 ## Installation
 npm:
