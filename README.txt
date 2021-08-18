@@ -14,4 +14,4 @@ What does LTC stands for?
 Left to check
 
 Where do all the valid/hit account go?
-In hits.txt
+In a txt file called "hits".
